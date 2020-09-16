@@ -10,9 +10,9 @@
       "type": "git",
       "url": "https://github.com/darviscommerce/geolocation.git"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": ['ihitro','darvis','Arvid de Jogn'],
+    "author": "Arvid de Jong",
+    "license": "MIT",
     "bugs": {
       "url": "https://github.com/darviscommerce/geolocation/issues"
     },
