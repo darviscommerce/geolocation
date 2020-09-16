@@ -3,6 +3,7 @@
     "description": "Geo location for browser use",
     "version": "0.1",
     "main": "index.js",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
